@@ -1,6 +1,6 @@
 let resumeData = {
     "imagebaseurl":"https://",
-    "name": "Dilip",
+    "name": "Evan Chu",
     "role": "Full Satck Developer",
     "linkedinId":"Your ID",
     "skypeid": "Your skypeid",
@@ -22,24 +22,17 @@ let resumeData = {
     "className":"fa fa-twitter"
     }
     ],
-    "aboutme":"I am currently a Masters student at The Hochschule Fulda and pursuing my masters in Global software Development from here. I am a self taught Full Stack Web Developer, currently diving deeper into Machine Learning. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
-    "address":"India",
+    "aboutme":"I am currently Production planner at Aktina Medical.",
+    "address":"INew Jersey",
     "website":"https://",
     "education":[
     {
-    "UniversityName":"Hochschule Fulda",
-    "specialization":"Machine Learning",
+    "UniversityName":"Wentworth Institue of Technology",
+    "specialization":"Business Management",
     "MonthOfPassing":"Aug",
-    "YearOfPassing":"2022",
-    "Achievements":"Some Achievements"
-    },
-    {
-    "UniversityName":"Some University",
-    "specialization":"Some specialization",
-    "MonthOfPassing":"Jan",
     "YearOfPassing":"2018",
     "Achievements":"Some Achievements"
-    }
+    },
     ],
     "work":[
     {
