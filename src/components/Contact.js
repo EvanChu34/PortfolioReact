@@ -18,7 +18,7 @@ return (
     <div className="row">
         <aside className="eigth columns footer-widgets">
             <div className="widget">
-                <h4>Linkedin:{resumeData.linkedinId}</h4>
+                <h4>Linkedin:  {resumeData.linkedinId}</h4>
             </div>
         </aside>
     </div>

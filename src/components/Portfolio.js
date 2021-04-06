@@ -19,7 +19,7 @@ return (
                 <a href="#modal-01">
                     <div className="overlay">
                         <div className="portfolio-item-meta">
-                            <h5>{item.name}</h5>
+                            <h3>{item.name}</h3>
                         <   p>{item.description}</p>
                         </div>
                     </div>

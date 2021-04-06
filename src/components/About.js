@@ -22,11 +22,11 @@ return (
         <div className="columns contact-details">
             <h2>Contact Details</h2>
         <p className="address">
-            <span>{resumeData.name}</span>
+            <span>Name: {resumeData.name}</span>
         <br></br>
-        <   span>{resumeData.address}</span>
+        <   span>Address: {resumeData.address}</span>
         <br></br>
-            <span>{resumeData.website}</span>
+            <span>Website: {resumeData.website}</span>
         </p>
         </div>
     </div>
