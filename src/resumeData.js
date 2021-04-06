@@ -1,52 +1,47 @@
 let resumeData = {
     "imagebaseurl":"https://",
     "name": "Evan Chu",
-    "role": "Full Satck Developer",
+    "role": "Full Stack Developer",
     "linkedinId":"Your ID",
     "skypeid": "Your skypeid",
-    "roleDescription": "I like to learn and create applications in various parts of software development and like to learn about new technologies, write technical articles or simply play games in my free time.",
+    "roleDescription": "I plan for a production team. I enjoy working on code in my extra time.",
     "socialLinks":[
     {
     "name":"linkedin",
-    "url":"https://",
+    "url":"https://www.linkedin.com/in/evan-chu-286bb7107/",
     "className":"fa fa-linkedin"
     },
     {
     "name":"github",
-    "url":"http://",
+    "url":"https://github.com/EvanChu34",
     "className":"fa fa-github"
     },
-    {
-    "name":"skype",
-    "url":"//",
-    "className":"fa fa-twitter"
-    }
     ],
     "aboutme":"I am currently Production planner at Aktina Medical.",
-    "address":"INew Jersey",
-    "website":"https://",
+    "address":"New Jersey",
+    "website":"",
     "education":[
     {
     "UniversityName":"Wentworth Institue of Technology",
     "specialization":"Business Management",
     "MonthOfPassing":"Aug",
     "YearOfPassing":"2018",
-    "Achievements":"Some Achievements"
+    "Achievements":"Radio Station Manager"
     },
     ],
     "work":[
     {
-    "CompanyName":"Some Company",
-    "specialization":"Some specialization",
-    "MonthOfLeaving":"Jan",
-    "YearOfLeaving":"2018",
+    "CompanyName":"Boston Glass Group",
+    "specialization":"Production Planning",
+    "MonthOfLeaving":"December",
+    "YearOfLeaving":"2017",
     "Achievements":"Some Achievements"
     },
     {
-    "CompanyName":"Some Company",
-    "specialization":"Some specialization",
+    "CompanyName":"Fuze",
+    "specialization":"Human Resources",
     "MonthOfLeaving":"Jan",
-    "YearOfLeaving":"2018",
+    "YearOfLeaving":"2017",
     "Achievements":"Some Achievements"
     }
     ],
@@ -60,29 +55,31 @@ let resumeData = {
     },
     {
     "skillname":"Reactjs"
-    }
+    },
+    {
+    "skillname":"MongoDB"
+    },
+    {
+    "skillname":"JavaScript"
+    },
+
     ],
     "portfolio":[
     {
-    "name":"project1",
-    "description":"mobileapp",
-    "imgurl":"images/portfolio/phone.jpg"
+    "name":"The Dad-a-Base",
+    "description":"The Dad-a-Base",
+    "imgurl":"public/images/portfolio/dad.png"
     },
     {
-    "name":"project2",
-    "description":"mobileapp",
-    "imgurl":"images/portfolio/project.jpg"
+    "name":"WeatherDash",
+    "description":"Weather app",
+    "imgurl":"public/images/portfolio/Weather-icon.png"
     },
     {
-    "name":"project3",
-    "description":"mobileapp",
-    "imgurl":"images/portfolio/project2.png"
+    "name":"Password Generator",
+    "description":"Password Generator",
+    "imgurl":"public/images/portfolio/password-icon.png"
     },
-    {
-    "name":"project4",
-    "description":"mobileapp",
-    "imgurl":"images/portfolio/phone.jpg"
-    }
     ],
     "testimonials":[
     {
