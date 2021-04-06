@@ -23,10 +23,10 @@ let resumeData = {
     "education":[
     {
     "UniversityName":"Wentworth Institue of Technology",
-    "specialization":"Business Management",
+    "specialization":"Bachelor's Degree in Business Management",
     "MonthOfPassing":"Aug",
     "YearOfPassing":"2018",
-    "Achievements":"Radio Station Manager"
+    "Achievements":"Radio Station Manager, Orientation Leader, Dean's List"
     },
     ],
     "work":[

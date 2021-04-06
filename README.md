@@ -10,7 +10,7 @@
 ---------------------------	
 
 ## About
-
+This is the repository for a new portfolio using React.js. So far the application 
 
 ---------------------------
 
