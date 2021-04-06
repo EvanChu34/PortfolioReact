@@ -83,13 +83,9 @@ let resumeData = {
     ],
     "testimonials":[
     {
-    "description":"This is a sample testimonial",
-    "name":"Some technical guy"
+    "description":"Coming Soon",
+    "name":"Work in progress"
     },
-    {
-    "description":"This is a sample testimonial",
-    "name":"Some technical guy"
-    }
     ]
     }
     export default resumeData
