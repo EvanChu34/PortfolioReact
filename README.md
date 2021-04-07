@@ -10,7 +10,8 @@
 ---------------------------	
 
 ## About
-This is the repository for a new portfolio using React.js. So far the application 
+This is the repository for a new portfolio using React.js. So far the application is looking alittle bare as I did not start on the CSS in time. I decided to go with a single scrolling portfolio page instead of one with multiple pages. The navgation on tope does work and will bring you to the proper areas.
+However, this application will be fully updated in the next few days.
 
 ---------------------------
 
@@ -18,11 +19,12 @@ This is the repository for a new portfolio using React.js. So far the applicatio
 
 You can find the live portfolio here: 
 
+https://evanchu34.github.io/PortfolioReact/
 
 ---------------------------
 
 ## Picture Resume
 
-![]()
+![](assets/ReactPortfolio.png)
 
 ---------------------------	
